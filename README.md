@@ -1,43 +1,34 @@
+
 # Ex.No.4-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts. Case study 2 with Comparative Analysis Prompt, Universal Prompt, Structures Prompt Refinements and Prompt Size Limitations
+# prompt-exp-4
+### Name: sivaramakrishnan G
+### Reg no: 212223060264
+## SCENARIO-BASED REPORT DEVELOPMENT UTILIZING DIVERSE PROMPTING TECHNIQUES – Case study 2 with Comparative Analysis Prompt, Comparative Analysis Prompt and Prompt Size Limitations
+### Aim:
+To design a smart water management system using AI-powered sensors that detect leaks early, prevent water loss, and optimize maintenance in urban infrastructure. Preceding questions are used to guide AI in developing a relevant system plan.
 
-### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
-Procedure:
-1.	Define the Scenario and Use Case:
-Scenario:
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
-Target Audience:
-Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+### 🔹 Step 1: Preceding Context Questions
 
+- Before creating the system design, the following guiding questions are asked:
 
-Main Objectives:
+- Detection Methods – What sensor types (pressure, flow, acoustic, IoT-enabled) are most effective for leak detection?
 
-•	Improve production efficiency by 30%.
-•	Minimize machinery downtime with predictive maintenance.
-•	Enable real-time monitoring and remote control of manufacturing systems.
-•	Reduce energy consumption by optimizing processes.
- 
-2.	Identify Prompt Patterns for Each Design Aspect:
-Idea Generation Prompts:
+- Data Handling – How will AI analyze sensor data in real-time to identify anomalies?
 
-•	Prompt: “What features can be incorporated into the automation system to optimize production and reduce downtime?” Generated Ideas:
-•	Sensors for real-time monitoring of equipment performance.
-•	Predictive maintenance alerts to anticipate equipment failures.
-•	Energy usage optimization by automating the switching of machines on/off based on demand.
-•	Cloud-based dashboards for remote monitoring and control of machinery.
+- Response Mechanism – Should alerts be manual notifications or automated shut-off systems?
 
-Persona and Context Prompts:
+- Scalability – How can this system expand from pilot areas to entire cities?
 
-•	Prompt: “What should the user interface and control system convey to the operators and managers?” Generated Context:
-•	The user interface should be intuitive and provide real-time data on machine performance, energy usage, and alerts.
-•	The system should convey reliability and ease of use, with minimal training required for operators.
+- Desired Outcome – What measurable impacts are expected (reduced water loss, cost savings, faster repairs)?
 
-Result: The various types of Prompts are executed successfully with generated the report.
+### 🔹 Step 2: Smart Sensor System Plan (Tabular Format)
+<img width="910" height="652" alt="image" src="https://github.com/user-attachments/assets/07a6683f-65d0-4488-a950-e9c232b2a9de" />
+
+### Result:
+Smart sensors integrated with AI can transform urban pipeline management by enabling real-time leak detection, predictive maintenance, and automated response systems. This leads to significant reductions in water wastage, repair costs, and downtime, making cities more sustainable and resilient.
+
 
 
 
 
 # Result: Thus the Prompts were exected succcessfully.
-
